@@ -1,0 +1,10 @@
+package filecopyexample;
+
+import java.nio.file.Paths;
+
+public class FileCopyExample {
+	public static void main(String[] args) {
+		Path source = Paths.get(arg0)
+	}
+
+}

@@ -1,0 +1,9 @@
+@FunctionalInterface
+public interface MessagePrinter {
+	public abstract void messageprinter();
+
+	public abstract void printMessage();
+}
+
+
+

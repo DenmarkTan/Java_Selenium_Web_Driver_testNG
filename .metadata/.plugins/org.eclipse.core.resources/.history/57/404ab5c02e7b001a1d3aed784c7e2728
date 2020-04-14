@@ -1,0 +1,12 @@
+package bufferedreaderexample;
+
+public class TryWithResources {
+	public static void main(String[] args) {
+		
+		try {
+			Bufferedreader reader = new Bufferedreader(new StringReader("Hello World!"));
+			StringWriter = new StringWriter();
+		}
+		
+	}
+}

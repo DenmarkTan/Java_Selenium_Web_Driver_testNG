@@ -1,0 +1,7 @@
+package filename;
+
+public class FileCreationExample {
+	public static void main(String[] args) {
+		File myFile = new File(C:\Users\132577\eclipse-workspace\SynchronizationExample)
+	}
+}

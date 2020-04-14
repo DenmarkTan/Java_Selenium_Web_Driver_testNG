@@ -1,0 +1,6 @@
+package scannerexample;
+import java.util.Scanner;
+
+public class PersonCreator {
+
+}

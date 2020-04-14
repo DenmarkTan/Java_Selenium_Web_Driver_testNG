@@ -1,0 +1,19 @@
+package synchronization;
+
+public class Main {
+	public static void main(String[] args) {
+		BankAccount account;
+		account.topUp(100);
+		
+		Thread t1 = new Thread(() -> {
+			ATM.withdraw(account, 100);	
+		});
+		
+		Thread t2 = new Thread(() -> {
+			ATM.withdraw(account, 100);	
+		});
+		
+		t1.start();
+		t2.start();
+	}
+}

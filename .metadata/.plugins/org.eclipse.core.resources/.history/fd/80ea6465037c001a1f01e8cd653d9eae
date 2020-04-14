@@ -1,0 +1,10 @@
+package myTest;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.By;	
+
+public class KeyboardAndMouseinput {
+	public static void main(String[] args) {
+		System.setProperty()
+	}
+}

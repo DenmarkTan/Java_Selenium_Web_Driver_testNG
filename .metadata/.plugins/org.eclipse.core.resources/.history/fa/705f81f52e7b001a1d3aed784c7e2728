@@ -1,0 +1,16 @@
+package bufferedreaderexample;
+
+import java.io.StringWriter;
+
+public class TryWithResources {
+	public static void main(String[] args) {
+		
+		try {
+			Bufferedreader reader = new Bufferedreader(new StringReader("Hello World!"));
+			StringWriter writer = new StringWriter();
+			writer.write(reader.readLine());
+			System.out.println();
+		}
+		
+	}
+}

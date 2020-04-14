@@ -1,0 +1,7 @@
+package linkedlistexample;
+
+import java.util.Linkedlist;
+
+public class LinkedListExample {
+
+}

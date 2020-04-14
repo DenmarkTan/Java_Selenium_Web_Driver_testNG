@@ -1,0 +1,19 @@
+package linkedlistexample;
+
+import java.util.Linkedlist;
+
+public class LinkedListExample {
+	public static void main(String[] args) {
+		LinkedList<string> myList = new LinkedList;
+		myList.add("A");
+		myList.add("B");
+		myList.add(1, "C");
+		System.out.println(myList);
+		myList.remove(1,"C");
+		System.out.println(myList);
+	}	
+}
+
+
+
+

@@ -1,0 +1,3 @@
+module HelloWorlds {
+	requires java.desktop;
+}

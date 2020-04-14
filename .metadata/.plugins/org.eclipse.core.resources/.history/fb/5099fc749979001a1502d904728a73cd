@@ -1,0 +1,13 @@
+package methodreferencesexample;
+
+public class Squre {
+	int sideLength;
+	
+	public Square(int sideLength) {
+		this.sideLength = sideLength;
+	}
+	
+	public int calculateArea() {
+		return sideLength * sideLength;
+	}
+}

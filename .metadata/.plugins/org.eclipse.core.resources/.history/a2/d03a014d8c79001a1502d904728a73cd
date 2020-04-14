@@ -1,0 +1,6 @@
+package functionalinterfaceexample;
+
+@FunctionalInterface
+public interface GreetingMessage {
+
+}

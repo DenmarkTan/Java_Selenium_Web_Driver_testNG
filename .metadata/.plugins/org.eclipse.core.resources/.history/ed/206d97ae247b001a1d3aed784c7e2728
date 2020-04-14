@@ -1,0 +1,7 @@
+package scannerexample;
+
+public class Person {
+	private string name;
+	private int age;
+	private long phonenumber;
+}

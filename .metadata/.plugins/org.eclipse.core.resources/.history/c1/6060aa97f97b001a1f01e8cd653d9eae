@@ -1,0 +1,5 @@
+package org.openga.selenium.chrome;
+
+public class ChromeDriver {
+
+}

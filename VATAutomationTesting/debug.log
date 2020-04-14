@@ -1,0 +1,1 @@
+[0719/125856.566:ERROR:file_io_win.cc(182)] CreateFile C:\Users\is-ko\AppData\Local\Temp\scoped_dir6096_21958\Crashpad\settings.dat: プロセスはファイルにアクセスできません。別のプロセスが使用中です。 (0x20)

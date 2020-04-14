@@ -1,0 +1,6 @@
+package filecopyexample;
+
+public class FileCopyExample {
+	public static void main(String[] args) {
+
+}

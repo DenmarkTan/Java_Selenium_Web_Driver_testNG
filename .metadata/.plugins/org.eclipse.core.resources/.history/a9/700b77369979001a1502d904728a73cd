@@ -1,0 +1,6 @@
+package methodreferencesexample;
+
+public class Squre {
+	int sideLength;
+	
+}
