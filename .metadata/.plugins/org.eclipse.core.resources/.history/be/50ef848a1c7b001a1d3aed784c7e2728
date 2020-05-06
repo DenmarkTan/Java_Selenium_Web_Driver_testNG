@@ -1,7 +1,0 @@
-package synchronization;
-
-public class BankAccount {
-	private int balance = 0;
-	private final int overdraft;
-	
-}

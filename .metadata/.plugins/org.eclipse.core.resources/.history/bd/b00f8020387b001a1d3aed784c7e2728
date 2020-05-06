@@ -1,7 +1,0 @@
-package pathclassexample;
-import java.nio.file.Path;
-import java.nio.file.Path;
-
-public class PathClassExample {
-
-}

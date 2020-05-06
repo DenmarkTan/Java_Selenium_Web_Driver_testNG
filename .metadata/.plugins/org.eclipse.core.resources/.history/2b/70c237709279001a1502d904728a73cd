@@ -1,7 +1,0 @@
-@FunctionalInterface
-public interface MessagePrinter {
-	public abstract void messageprinter();
-}
-
-
-

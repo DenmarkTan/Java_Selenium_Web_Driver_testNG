@@ -1,6 +1,0 @@
-package methodreferencesexample;
-
-@FunctionalInterface
-public class Shapes {
-	public abstract int getArea(Square person);
-}

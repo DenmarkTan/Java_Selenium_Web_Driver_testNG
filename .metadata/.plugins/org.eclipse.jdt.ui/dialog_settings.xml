@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="1"/>
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-14"/>
-	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\132577\Downloads"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\132577\Downloads\selenium-java-3.141.59\libs"/>
 	<item key="org.eclipse.jdt.ui.last.selected.project.jre" value="jre1.8.0_231"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
@@ -61,5 +61,10 @@
 			<list key="selectedEnums">
 			</list>
 		</section>
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item key="index" value="1"/>
+	</section>
+	<section name="BreadcrumbItemDropDown">
 	</section>
 </section>

@@ -13,8 +13,8 @@ public class GenericMethods {
 //		return list;
 //	}
 	//after
-	public static <D> List <D> arrayToList(D[] array, List<D> list) {
-		for (D object : array) {
+	public static <G> List <G> arrayToList(G[] array, List<G> list) {
+		for (G object : array) {
 			list.add(object);
 		}
 		return list;
@@ -24,7 +24,7 @@ public class GenericMethods {
 		List<Character> charList = arrayToList(charArray, new ArrayList());
 		List<Boolean> boolList = arrayToList(boolArray, new ArrayList());
 		List<Integer> intList = arrayToList(intArray, new ArrayList());
-		System.out.println(intList.get(1));
+		System.out.println(intList.get(2));
 	}
 	
 

@@ -1,7 +1,0 @@
-
-public class LinkedList {
-	public static void main(String[] args) {
-		Linkedlist<string> myList = new Linkedlist;
-		
-	}
-}

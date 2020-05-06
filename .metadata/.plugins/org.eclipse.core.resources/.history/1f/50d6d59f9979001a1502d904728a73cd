@@ -1,5 +1,0 @@
-package methodreferencesexample;
-
-@FunctionalInterface
-public class Shapes {
-}

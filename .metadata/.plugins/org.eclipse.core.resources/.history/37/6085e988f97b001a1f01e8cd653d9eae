@@ -1,8 +1,0 @@
-package myTest;
-
-import org.openga.selenium.chrome.ChromeDriver;
-
-
-public class TestSample {
-
-}

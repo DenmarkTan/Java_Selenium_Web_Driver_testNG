@@ -1,9 +1,0 @@
-package directoriesexample;
-import java.io.File;
-
-public class DirectoriesExample {
-	public static void main(String[] args) {
-		String[] contents = new File(".").list();
-		for(String file: contents)
-	}
-}
